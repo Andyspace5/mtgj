@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; } 
+fieldset, img { border:none; }
+img{display: block;}
+address, caption, cite, code, dfn, th, var { font-style:normal; font-weight:normal; }
+ul, ol { list-style:none; }                     
+body { color:#333; padding:5px 0; font:12px/20px "SimSun","微软雅黑","Arial Narrow",HELVETICA; background:#fff; }
+a{color:#666;text-decoration:none;}
+
+.header_bg{border-bottom:1px solid #c1c1c1;overflow:hidden;}
+.header{width:1204px;height:82px;margin:0px auto;}
+.header a{float:left;margin-top:29px;margin-left:5px;}
+.header ul{float:right;list-style:none;}
+.header ul li{float:left;}
+.header ul li a{padding:0px 15px;font-size:14px;color:#333;}
+
+.banner_bg{background:url(../images/images/banner_04_1_02.png) no-repeat center top;}
+.banner{height:500px;width:1204px;margin:0px auto;margin-top:30px; }
+
+.work{width:1204px;height:420px;margin:0px auto;}
+.work .h2_top{font-size:14px;padding:33px;padding-bottom:22px;width:430px;margin-left:387px;text-align:center;background:url(../images/images/xian_05.png) no-repeat 30px 68px;}
+.work .shop{height:227px;width:252px;border:1px solid;margin-top:46px;margin-left:22px;background:url(../images/images/tu_04_03.png) no-repeat center 0px;}
+.work .shop h2{text-align:center;margin-top:120px;}
+.work .shop p{text-align:center;margin-top:20px;font-size:12px;}
